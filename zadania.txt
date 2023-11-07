@@ -1,0 +1,25 @@
+
+
+2. 
+1.Deklaracja doctype:
+W HTML 4.01 deklaracja doctype wyglądała następująco:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+W HTML 5.0 deklaracja doctype jest znacznie prostsza i wygląda tak:
+<!DOCTYPE html>
+
+2.Nowe znaczniki i atrybuty:
+HTML 5.0 wprowadza wiele nowych znaczników i atrybutów, które nie istniały w HTML 4.01.
+Na przykład, znaczniki takie jak <header>, <nav>, <section>, <footer>, <article>, <video>, <audio>, <canvas> i wiele innych są dostępne w HTML 5.0.
+Dodatkowo, HTML 5.0 wprowadza wiele atrybutów związanych z formularzami i multimediami, takie jak placeholder, required, autoplay, controls, itp.
+
+3.W HTML 4.01 atrybuty można było określić w kilku różnych sposób, na przykład używając pojedynczych lub podwójnych cudzysłowów lub bez nich. 
+W HTML 5.0 zaleca się stosowanie podwójnych cudzysłowów dla wartości atrybutów. 
+Na przykład:
+W HTML 4.01:
+<img src="obrazek.jpg" alt='Opis obrazka' width=300 height=200>
+
+W HTML 5.0:
+<img src="obrazek.jpg" alt="Opis obrazka" width="300" height="200">
+To tylko trzy z wielu różnic między HTML 4.01 a HTML 5.0. 
+HTML 5.0 wprowadza również wiele innych usprawnień i zmian, które uczyniły język bardziej nowoczesnym i bardziej przyjaznym dla twórców stron internetowych.
