@@ -1,3 +1,15 @@
+1.
+Zdeprecjonowany Element/Atrybut	     Zalecany Zamiennik przez W3C
+<center>	CSS do wyśrodkowania, np. text-align: center;
+<font>	CSS do stylizacji tekstu, np. font-size, font-family
+<strike>	<del> w połączeniu z CSS do przekreślenia, np. text-decoration: line-through;
+<frame>	<iframe> lub technologie takie jak CSS Grid i Flexbox
+<frameset>	Nie ma bezpośredniego zamiennika, użyj technologii jak XHTML lub inne struktury zamiast ramek
+<noframes>	Nie ma bezpośredniego zamiennika, użyj alternatywnych treści lub komunikatów dla przeglądarek, które nie obsługują ramek
+<applet>	<object> z użyciem HTML5 i CSS do stylizacji
+<acronym>	<abbr> z odpowiednim atrybutem title
+<big>	CSS do zmiany rozmiaru tekstu, np. font-size
+<basefont>	CSS do zmiany rozmiaru tekstu, np. font-size
 
 
 2. 
@@ -23,3 +35,27 @@ W HTML 5.0:
 <img src="obrazek.jpg" alt="Opis obrazka" width="300" height="200">
 To tylko trzy z wielu różnic między HTML 4.01 a HTML 5.0. 
 HTML 5.0 wprowadza również wiele innych usprawnień i zmian, które uczyniły język bardziej nowoczesnym i bardziej przyjaznym dla twórców stron internetowych.
+
+3.
+HTML 4.0- https://www.w3.org/TR/1998/REC-html40-19980424/
+HTML 4.01- https://www.w3.org/TR/html401/
+HTML 5.0- https://www.w3.org/TR/2011/WD-html5-20110405/
+
+4.
+-Witryna internetowa - Firma XYZ - Strona internetowa firmy XYZ, oferującej produkty i usługi związane z technologią. - www.firma-xyz.com
+-Portal internetowy	- Aktualności Sportowe - Portal z najnowszymi informacjami na temat wydarzeń sportowych na całym świecie. - www.sport-news.com
+-Sklep internetowy	- Moda i Uroda	- Sklep online specjalizujący się w sprzedaży odzieży, kosmetyków i akcesoriów modowych. - www.moda-i-uroda-shop.com
+-Blog tekstowy	- Podróże i Przygody - Blog podróżniczy opisujący przygody autora w różnych częściach świata oraz udostępniający porady podróżnicze. - www.podroze-i-przygody-blog.com
+-WideoBlog	- Kulinaria	- Kanał wideo na platformie YouTube, w którym prowadzący prezentuje przepisy kulinarne i gotowanie różnych potraw. - www.youtube.com/user/kulinaria-vlog
+
+
+
+
+
+Test 1 
+
+1.A
+2.A
+3.B
+4.C 
+5.B
